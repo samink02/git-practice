@@ -1,9 +1,5 @@
 Hello from Notepad
 Let's see this through!
-<<<<<<< HEAD
-
+Akshay added a line
 Changing again!
 Some new text
-
-Changing one more time!
-
