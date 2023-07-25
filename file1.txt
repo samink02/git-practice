@@ -1,4 +1,7 @@
 Hello from Notepad
 Let's see this through!
+<<<<<<< HEAD
 
 Changing again!
+Some new text
+
